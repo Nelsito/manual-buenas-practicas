@@ -7,3 +7,6 @@ El colapso a final de semestre se evita adoptando marcos de trabajo como **Scrum
 * **Planificación:** Definir el Product Backlog.
 * **Ejecución:** Dividir el trabajo en Sprints.
 * **Revisión:** Evaluar lo avanzado.
+
+## 2. Políticas de Comunicación Interna
+Para el éxito del equipo, la comunicación debe ser asíncrona pero constante. Se desaconseja el uso exclusivo de WhatsApp para decisiones técnicas. Todo acuerdo debe quedar documentado en las minutas del repositorio o en los comentarios de los Pull Requests.

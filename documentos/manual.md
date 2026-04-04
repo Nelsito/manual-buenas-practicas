@@ -1,6 +1,7 @@
 # 📘 Manual de Organización y Buenas Prácticas
 ## 1. Gestión del Tiempo y Metodologías Ágiles
 El colapso a final de semestre se evita adoptando marcos de trabajo como **Scrum**. 
+![Diagrama de Scrum](../imagenes/scrum.png)
 
 ### 1.1. Ciclo de Trabajo Recomendado:
 * **Planificación:** Definir el Product Backlog.
@@ -15,6 +16,7 @@ El rigor académico en la UVM exige estandarización.
 * **Fuente:** Times New Roman 12pt o Arial 11pt.
 * **Interlineado:** 2.0 (Doble espacio).
 * **Alineación:** Izquierda (sin justificar).
+![Ejemplo Normas APA](../imagenes/normas.jpeg)
 
 ## 4. Ecosistema Colaborativo y Citas APA
 El equipo debe centralizar su trabajo:
@@ -26,3 +28,4 @@ El equipo debe centralizar su trabajo:
 
 **Ejemplo de Citación (Libro):** > Apellido, A. A. (Año). *Título del libro*. Editorial.
 
+![Diagrama](../imagenes/diagrama.jpeg)
